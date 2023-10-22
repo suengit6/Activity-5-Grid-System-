@@ -1,0 +1,8 @@
+.text4, .text5 {
+    font-style: italic;
+    font-weight: bolder;
+    color: white;
+}
+.text5{
+    color: yellow;
+}
